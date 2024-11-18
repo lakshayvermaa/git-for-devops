@@ -1,5 +1,5 @@
 
-# Git Commands Documentation
+# Git Commands Documentations
 
 ## 1. **Basic Linux Commands**
 - **Create a directory:**
