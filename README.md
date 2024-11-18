@@ -12,5 +12,5 @@ You can view the commands directly in the `command.md` file, or refer to it for 
 
 ## Contribution
 
-Feel free to fork the repository, make changes, and submit a pull request if you'd like to contribute additional Git commands or improvements to the file..
+Feel free to fork the repository, make changes, and submit a pull request if you'd like to contribute additional Git commands or improvements to the file.
 
